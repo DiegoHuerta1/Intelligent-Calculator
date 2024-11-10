@@ -1,7 +1,8 @@
-# Reconocimiento_numeros
-Proyecto que permite hacer operaciones aritmeticas basicas por medio de analisis de imagenes
+# Intelligent Calculator
 
-Se tiene el archivo de python que contiene el codigo del proyecto. Este se ve como una visualisacion de streamlit a la cual se puede accesar con el link: 
+A project that allows basic arithmetic operations through image analysis.
+
+There is a Python file containing the project code. It is displayed as a Streamlit visualization, which can be accessed via the following link:
 https://diegohuerta1-reconocimiento-numeros-visualization-vejotm.streamlit.app/
 
-Tambien se tiene el modelo de keras usado para la clasificacion de los digitos. Modelo entrenado con datos Mnist. Tambien se tiene el archivo usado para entrenar este modelo
+Additionally, there is the Keras model used for digit classification. The model was trained with Mnist data. The file used to train this model is also available.
