@@ -41,7 +41,7 @@ google-pasta==0.2.0
 grpcio==1.42.0
 h5py==3.8.0
 idna==3.4
-imagecodecs==2023.1.23
+imagecodecs
 imageio==2.27.0
 importlib-metadata==6.1.0
 importlib-resources==5.12.0
